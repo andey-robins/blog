@@ -18,6 +18,7 @@ To get started:
 
 5. Once you're done editing the site, just commit it and push it. GitHub action will deploy the site automatically to GitHub page asociated with the repository.
 ![GitHub action](https://user-images.githubusercontent.com/5889006/156916881-90b8bb9b-1925-4e60-9d7a-8026cda729bf.png)
+
 ---
 
 In case you don't want to use GitHub codespace, you can also run this template in your local machine. **You need to install Git, Go and Hugo extended locally.**
@@ -35,7 +36,7 @@ hugo mod tidy
 
 ### Deploy to another static page hostings
 
-If you want to build this site using another static page hosting, you need to make sure they have Go installed in the machine. 
+If you want to build this site using another static page hosting, you need to make sure they have Go installed in the machine.
 
 <details>
   <summary>Vercel</summary>
